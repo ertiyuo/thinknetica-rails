@@ -30,4 +30,7 @@
 # available at https://guides.rubyonrails.org/i18n.html.
 
 en:
-  hello: "Hello world"
+  test_guru: "TestGuru"
+  course_by: "Rails-course by"
+  about:
+    description: "Small and simple testing"
