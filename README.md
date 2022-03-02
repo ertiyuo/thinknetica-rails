@@ -2,9 +2,12 @@
 Small testing made simple.
 
 TestGuru has:
+- Users
+- Test categories
 - Tests
-- Creators
-- Testees
+- Questions
+- Answers
+- Test results
 
 ## Quick start
 - Use Ruby version 2.7.2 `rvm use 2.7.2`
