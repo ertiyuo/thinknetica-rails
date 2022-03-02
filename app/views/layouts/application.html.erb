@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>TestGuru</title>
+    <title><%= I18n.t "test_guru"%></title>
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <%= csrf_meta_tags %>
     <%= csp_meta_tag %>
@@ -13,4 +13,7 @@
   <body>
     <%= yield %>
   </body>
+  <footer style="position:absolute; bottom:0pt">
+    <p><%= I18n.t "course_by"%> <a rel="nofollow noopener" href="https://thinknetica.com/" target="_blank">Thinknetica</a></p>
+  </footer>
 </html>
