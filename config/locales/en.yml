@@ -32,8 +32,3 @@
 en:
   test_guru: "TestGuru"
   course_by: "Beginner's Rails-course by"
-  about:
-    description: "Small and simple testing"
-    developed: "Created for Rails course by"
-    author: "author"
-    author_name: "Anastasiia Grishchenko"
